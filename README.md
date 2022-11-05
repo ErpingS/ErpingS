@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on surviving school
-- 🌱 I’m currently learning CS and Business
+- 🌱 I’m currently learning CS (Data Structures and Algorithms)and Business
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
